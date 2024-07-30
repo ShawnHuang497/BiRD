@@ -1,0 +1,10 @@
+numpy
+paddlenlp>=2.6.1
+tensorboardX
+opencv-python
+Pillow
+pycocoevalcap
+ftfy
+regex
+einops>=0.6.1
+
