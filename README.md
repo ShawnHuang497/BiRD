@@ -39,7 +39,10 @@ The BiRD shows potential performance in bounding box grounding understanding in 
 You could refer to the [official documentation of PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX "PaddleMIX") to initialize the virtual environment.
 
 # 🗃️Dataset
-Med-GRIT-270k dataset is on the way...
+For the images downloading, please refer to the [SAM-Med2D](https://github.com/OpenGVLab/SAM-Med2D).
+
+For the QA pairs, please fill the following form to get the Med-GRIT-270k dataset: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSf3G6hsFjFEGj1yzrcFu1fHhcjviEUiMsy2W45_rbP57acQqQ/viewform?usp=sf_link "Google Form"). We will send the dataset to you by email after your application is approved.
+
 
 
 # 📀Train
