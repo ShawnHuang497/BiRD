@@ -3,7 +3,7 @@
 
 # <img src="assets/logo.png" alt="Image" style="width: 40px; vertical-align: middle;"> A Refer-and-Ground Multimodal Large Language Model for Biomedicine 
 
-<a src="https://img.shields.io/badge/cs.CV-2308.16184-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2406.18146"> <img src="https://img.shields.io/badge/cs.CV-2308.16184-b31b1b?logo=arxiv&logoColor=red">
+<a src="https://img.shields.io/badge/cs.CV-2308.16184-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2406.18146"> <img src="https://img.shields.io/badge/cs.CV-2406.18146-b31b1b?logo=arxiv&logoColor=red">
 </a> 
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update. 
