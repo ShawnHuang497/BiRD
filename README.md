@@ -100,10 +100,13 @@ Any deployed use case of the model --- commercial or otherwise --- is out of sco
 If you find our paper and code useful in your research, please consider giving a star and citation.
 
 ```BibTeX
-@article{huang2024refer,
+@inproceedings{huang2024refer,
   title={A Refer-and-Ground Multimodal Large Language Model for Biomedicine},
   author={Huang, Xiaoshuang and Huang, Haifeng and Shen, Lingdong and Yang, Yehui and Shang, Fangxin and Liu, Junwei and Liu, Jia},
-  journal={arXiv preprint arXiv:2406.18146},
-  year={2024}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={399--409},
+  year={2024},
+  organization={Springer}
 }
+
 ```
