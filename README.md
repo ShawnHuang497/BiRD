@@ -85,7 +85,7 @@ We thank the following excellent works: [FERRET](https://arxiv.org/abs/2310.0770
 ### Intended Use
 The data, code, and model checkpoints are intended to be used solely for (I) future research on visual-language processing and (II) reproducibility of the experimental results reported in the reference paper. The data, code, and model checkpoints are not intended to be used in clinical care or for any clinical decision making purposes.
 ### Primary Intended Use
-The primary intended use is to support AI researchers reproducing and building on top of this work. MedPLIB and its associated models should be helpful for exploring various biomedical pixel grunding and vision question answering (VQA) research questions.
+The primary intended use is to support AI researchers reproducing and building on top of this work. BiRD and its associated models should be helpful for exploring various biomedical pixel grunding and vision question answering (VQA) research questions.
 ### Out-of-Scope Use
 Any deployed use case of the model --- commercial or otherwise --- is out of scope. Although we evaluated the models using a broad set of publicly-available research benchmarks, the models and evaluations are intended for research use only and not intended for deployed use cases. 
 
